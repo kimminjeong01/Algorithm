@@ -1,3 +1,5 @@
+# 더하기 사이클
+
 num = int(input())
 new_num=num
 cnt=0
