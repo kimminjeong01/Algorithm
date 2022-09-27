@@ -15,9 +15,8 @@ for i in range(m):
 
 print(cnt)
 
-import sys
-input = sys.stdin.readline
-
+# import sys
+# input = sys.stdin.readline
 # N, M = map(int, input().split())
 # s = set([input() for _ in range(N)])
 # cnt = 0
