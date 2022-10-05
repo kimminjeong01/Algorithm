@@ -2,7 +2,7 @@
 # 돌게임
 
 N = int(input())
-result = [-1]*(N+1)
+result = [-1]*10000
 
 result[1]=1 # sk
 result[2]=0 # cy
