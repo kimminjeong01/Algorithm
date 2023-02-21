@@ -15,7 +15,7 @@ while(True):
     if len(queue)==0:
         break
     index+=y-1
-    while(index>=len(queue)):
+    if(index>=len(queue)):
         index = index % len(queue)
     print_queue.append(queue[index])
     queue.remove(queue[index])
